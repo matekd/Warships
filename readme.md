@@ -1,3 +1,0 @@
-## Warships
-
-Trying out Python
